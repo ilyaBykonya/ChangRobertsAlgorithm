@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.13.3, 2021-10-12T11:35:02. -->
+<!-- Written by QtCreator 4.13.3, 2021-11-25T18:18:02. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -336,6 +336,7 @@
     <value type="bool" key="RunConfiguration.UseMultiProcess">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseTerminal">true</value>
     <value type="QString" key="RunConfiguration.WorkingDirectory"></value>
     <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/Work/Freelance/ChangRobertsAlgorithm/build-ChangRobertsAlgorithm-Desktop_Qt_5_15_2_MinGW_64_bit-Debug</value>
    </valuemap>
